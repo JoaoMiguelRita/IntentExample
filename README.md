@@ -4,3 +4,4 @@ Aplicação Android em Kotlin que permite ao usuário digitar um termo de busca,
  
 Ao clicar no botão de busca, o app solicita permissão de localização, obtém as coordenadas do dispositivo e abre o Google Maps com os resultados filtrados para a região do usuário.
  
+https://www.canva.com/design/DAHGHrJ8EAs/8RTqTfp1YDHOAMcqFzwmZg/edit
